@@ -1,0 +1,14 @@
+.keyboard-button {
+   color:aliceblue;
+    border: 2px solid rgb(250, 216, 216);
+   background-color: rgb(37, 48, 61);;
+    height: 30px;
+    width: 30px;
+}
+
+.keyboard-button:hover {
+    background-color: rgb(37, 48, 61);;
+    color: rgb(222, 227, 67);
+    border: 2px solid rgb(222, 227, 67);
+    cursor: pointer;
+}

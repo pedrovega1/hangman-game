@@ -1,0 +1,15 @@
+.man {
+    fill: transparent;
+    stroke: rgb(232, 0, 0);
+
+    stroke-width: 5px;
+    stroke-linecap: round;
+}
+
+.hide {
+    display: none;
+}
+
+.man-container{
+   
+}
